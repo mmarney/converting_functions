@@ -1,14 +1,6 @@
 # converting_functions
 A set of python functions usefull for converting compound identifiers and calculating properties of compounds.  
 ## Compound identifiers include.
-Compound name\n
-Chebi id\n
-Pubchem id\n
-InChI\n
-InChIKey\n
+Compound name, Chebi id, Pubchem id, InChI, InChIKey
 ## Compound Properties include.
-SMILES\n
-Molecular formula\n
-Monoisotopic mass\n
-TPSA (Topical Polar Surface Area)\n
-Compound image\n
+SMILES, Molecular formula, Monoisotopic mass, TPSA (Topical Polar Surface Area), Compound image
